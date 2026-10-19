@@ -1,0 +1,4 @@
+# half-written files of the model runner (it publishes via .tmp + rename)
+*.tmp
+# Godot editor import sidecars (assets are loaded as raw files, see models/.gdignore)
+*.import
