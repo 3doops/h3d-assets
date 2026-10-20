@@ -2829,6 +2829,20 @@
     1
    ]
   },
+  "def:avawre20": {
+   "glb": "res://assets/models/wat_shipwreck.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avawrek0": {
+   "glb": "res://assets/models/wat_shipwreck.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "def:avbhou01": {
    "glb": "res://assets/models/deco_burnt_house.glb",
    "footprint": [
@@ -3529,6 +3543,20 @@
     1
    ]
   },
+  "def:avg2elf": {
+   "glb": "res://assets/models/dw_altar_of_fire.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avg2elw": {
+   "glb": "res://assets/models/dw_altar_of_water.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "def:avg2half": {
    "glb": "res://assets/models/dw_halfling_adobe.glb",
    "footprint": [
@@ -3606,11 +3634,25 @@
     1
    ]
   },
+  "def:avgbhmt0": {
+   "glb": "res://assets/models/dw_behemoth_crag.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "def:avgbkni0": {
    "glb": "res://assets/models/dw_hall_of_darkness.glb",
    "footprint": [
     2,
     1
+   ]
+  },
+  "def:avgboar": {
+   "glb": "res://assets/models/dw_boar_glen.glb",
+   "footprint": [
+    2,
+    2
    ]
   },
   "def:avgbone0": {
@@ -3704,6 +3746,13 @@
     1
    ]
   },
+  "def:avgelem0": {
+   "glb": "res://assets/models/dw_elemental_conflux.glb",
+   "footprint": [
+    3,
+    2
+   ]
+  },
   "def:avgelf0": {
    "glb": "res://assets/models/dw_homestead.glb",
    "footprint": [
@@ -3713,6 +3762,13 @@
   },
   "def:avgelp": {
    "glb": "res://assets/models/dw_altar_of_thought.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avgench": {
+   "glb": "res://assets/models/dw_enchanters_hollow.glb",
    "footprint": [
     2,
     1
@@ -3942,6 +3998,13 @@
     1
    ]
   },
+  "def:avggolm0": {
+   "glb": "res://assets/models/dw_golem_factory.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "def:avggorg0": {
    "glb": "res://assets/models/dw_gorgon_lair.glb",
    "footprint": [
@@ -3965,6 +4028,13 @@
   },
   "def:avgguns": {
    "glb": "res://assets/models/dw_watchtower.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avghalf": {
+   "glb": "res://assets/models/dw_thatched_hut.glb",
    "footprint": [
     2,
     1
@@ -4082,11 +4152,25 @@
     1
    ]
   },
+  "def:avgmumy": {
+   "glb": "res://assets/models/dw_tomb_of_curses.glb",
+   "footprint": [
+    2,
+    2
+   ]
+  },
   "def:avgnaga0": {
    "glb": "res://assets/models/dw_golden_pavilion.glb",
    "footprint": [
     2,
     2
+   ]
+  },
+  "def:avgnomd": {
+   "glb": "res://assets/models/dw_nomad_tent.glb",
+   "footprint": [
+    2,
+    1
    ]
   },
   "def:avgogre0": {
@@ -4098,6 +4182,13 @@
   },
   "def:avgorcg0": {
    "glb": "res://assets/models/dw_orc_tower.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avgpeas": {
+   "glb": "res://assets/models/dw_hovel.glb",
    "footprint": [
     2,
     1
@@ -4147,6 +4238,13 @@
   },
   "def:avgrocs0": {
    "glb": "res://assets/models/dw_cliff_nest.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avgrog": {
+   "glb": "res://assets/models/dw_rogue_cavern.glb",
    "footprint": [
     2,
     1
@@ -4220,6 +4318,13 @@
    "footprint": [
     2,
     1
+   ]
+  },
+  "def:avgtrll": {
+   "glb": "res://assets/models/dw_troll_bridge.glb",
+   "footprint": [
+    2,
+    2
    ]
   },
   "def:avgtrog0": {
@@ -4436,6 +4541,41 @@
    "glb": "res://assets/models/rock_group.glb",
    "footprint": [
     2,
+    1
+   ]
+  },
+  "def:avlc10l0": {
+   "glb": "res://assets/models/land_fissure_lava__2x1.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avlc11l0": {
+   "glb": "res://assets/models/land_fissure_lava.glb",
+   "footprint": [
+    2,
+    2
+   ]
+  },
+  "def:avlc12l0": {
+   "glb": "res://assets/models/land_fissure_lava__1x1.glb",
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "def:avlc13l0": {
+   "glb": "res://assets/models/land_fissure_lava__1x1.glb",
+   "footprint": [
+    1,
+    1
+   ]
+  },
+  "def:avlc14l0": {
+   "glb": "res://assets/models/land_fissure_lava__1x1.glb",
+   "footprint": [
+    1,
     1
    ]
   },
@@ -4719,6 +4859,13 @@
     2
    ]
   },
+  "def:avlct1l0": {
+   "glb": "res://assets/models/land_fissure_lava__4x2.glb",
+   "footprint": [
+    4,
+    2
+   ]
+  },
   "def:avlct1r0": {
    "glb": "res://assets/models/land_fissure_pale__3x2.glb",
    "footprint": [
@@ -4747,6 +4894,13 @@
     3
    ]
   },
+  "def:avlct2l0": {
+   "glb": "res://assets/models/land_fissure_lava__2x4.glb",
+   "footprint": [
+    2,
+    4
+   ]
+  },
   "def:avlct2r0": {
    "glb": "res://assets/models/land_fissure_pale__2x3.glb",
    "footprint": [
@@ -4770,6 +4924,13 @@
   },
   "def:avlct3g0": {
    "glb": "res://assets/models/land_fissure_grass.glb",
+   "footprint": [
+    2,
+    2
+   ]
+  },
+  "def:avlct3l0": {
+   "glb": "res://assets/models/land_fissure_lava.glb",
    "footprint": [
     2,
     2
@@ -4803,6 +4964,13 @@
     2
    ]
   },
+  "def:avlct4l0": {
+   "glb": "res://assets/models/land_fissure_lava.glb",
+   "footprint": [
+    2,
+    2
+   ]
+  },
   "def:avlct4r0": {
    "glb": "res://assets/models/land_fissure_pale.glb",
    "footprint": [
@@ -4831,6 +4999,13 @@
     1
    ]
   },
+  "def:avlct5l0": {
+   "glb": "res://assets/models/land_fissure_lava__1x2.glb",
+   "footprint": [
+    1,
+    2
+   ]
+  },
   "def:avlct5r0": {
    "glb": "res://assets/models/land_fissure_pale.glb",
    "footprint": [
@@ -4852,10 +5027,24 @@
     2
    ]
   },
+  "def:avlct6l0": {
+   "glb": "res://assets/models/land_fissure_lava__1x2.glb",
+   "footprint": [
+    1,
+    2
+   ]
+  },
   "def:avlct6r0": {
    "glb": "res://assets/models/land_fissure_pale__2x2.glb",
    "footprint": [
     2,
+    2
+   ]
+  },
+  "def:avlct7l0": {
+   "glb": "res://assets/models/land_fissure_lava__1x2.glb",
+   "footprint": [
+    1,
     2
    ]
   },
@@ -4866,8 +5055,22 @@
     1
    ]
   },
+  "def:avlct8l0": {
+   "glb": "res://assets/models/land_fissure_lava__1x2.glb",
+   "footprint": [
+    1,
+    2
+   ]
+  },
   "def:avlct8r0": {
    "glb": "res://assets/models/land_fissure_pale.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avlct9l0": {
+   "glb": "res://assets/models/land_fissure_lava__2x1.glb",
    "footprint": [
     2,
     1
@@ -12720,8 +12923,29 @@
     1
    ]
   },
+  "def:avxbnk30": {
+   "glb": "res://assets/models/bank_griffin_conservatory.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avxbnk40": {
+   "glb": "res://assets/models/bank_imp_cache.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "def:avxbnk50": {
    "glb": "res://assets/models/bank_medusa_stores.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "def:avxbnk60": {
+   "glb": "res://assets/models/bank_naga_bank.glb",
    "footprint": [
     2,
     1
@@ -12962,6 +13186,27 @@
    "glb": "res://assets/models/gate_grave.glb",
    "footprint": [
     1,
+    1
+   ]
+  },
+  "def:avxgyds0": {
+   "glb": "res://assets/models/bank_crypt.glb",
+   "footprint": [
+    3,
+    1
+   ]
+  },
+  "def:avxgyne0": {
+   "glb": "res://assets/models/bank_crypt.glb",
+   "footprint": [
+    3,
+    1
+   ]
+  },
+  "def:avxgysn0": {
+   "glb": "res://assets/models/bank_crypt.glb",
+   "footprint": [
+    3,
     1
    ]
   },
@@ -15527,6 +15772,13 @@
     1
    ]
   },
+  "obj:16:2": {
+   "glb": "res://assets/models/bank_griffin_conservatory.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "obj:16:21": {
    "glb": "res://assets/models/bank_beholders_sanctuary.glb",
    "footprint": [
@@ -15590,6 +15842,13 @@
     1
    ]
   },
+  "obj:16:3": {
+   "glb": "res://assets/models/bank_imp_cache.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "obj:16:30": {
    "glb": "res://assets/models/bank_experimental_shop.glb",
    "footprint": [
@@ -15618,6 +15877,13 @@
     1
    ]
   },
+  "obj:16:5": {
+   "glb": "res://assets/models/bank_naga_bank.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "obj:16:6": {
    "glb": "res://assets/models/bank_dragon_fly_hive.glb",
    "footprint": [
@@ -15627,6 +15893,13 @@
   },
   "obj:17:0": {
    "glb": "res://assets/models/dw_basilisk_pit.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "obj:17:1": {
+   "glb": "res://assets/models/dw_behemoth_crag.glb",
    "footprint": [
     2,
     1
@@ -16185,6 +16458,13 @@
     1
    ]
   },
+  "obj:17:66": {
+   "glb": "res://assets/models/dw_enchanters_hollow.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
   "obj:17:67": {
    "glb": "res://assets/models/dw_treetop_tower.glb",
    "footprint": [
@@ -16218,6 +16498,69 @@
    "footprint": [
     2,
     1
+   ]
+  },
+  "obj:17:71": {
+   "glb": "res://assets/models/dw_altar_of_fire.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "obj:17:72": {
+   "glb": "res://assets/models/dw_altar_of_water.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "obj:17:73": {
+   "glb": "res://assets/models/dw_thatched_hut.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "obj:17:74": {
+   "glb": "res://assets/models/dw_hovel.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "obj:17:75": {
+   "glb": "res://assets/models/dw_boar_glen.glb",
+   "footprint": [
+    2,
+    2
+   ]
+  },
+  "obj:17:76": {
+   "glb": "res://assets/models/dw_tomb_of_curses.glb",
+   "footprint": [
+    2,
+    2
+   ]
+  },
+  "obj:17:77": {
+   "glb": "res://assets/models/dw_nomad_tent.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "obj:17:78": {
+   "glb": "res://assets/models/dw_rogue_cavern.glb",
+   "footprint": [
+    2,
+    1
+   ]
+  },
+  "obj:17:79": {
+   "glb": "res://assets/models/dw_troll_bridge.glb",
+   "footprint": [
+    2,
+    2
    ]
   },
   "obj:17:8": {
@@ -16294,6 +16637,20 @@
    "glb": "res://assets/models/dw_nix_fort.glb",
    "footprint": [
     3,
+    1
+   ]
+  },
+  "obj:20:0": {
+   "glb": "res://assets/models/dw_elemental_conflux.glb",
+   "footprint": [
+    3,
+    2
+   ]
+  },
+  "obj:20:1": {
+   "glb": "res://assets/models/dw_golem_factory.glb",
+   "footprint": [
+    2,
     1
    ]
   },
@@ -17022,6 +17379,20 @@
    "glb": "res://assets/models/vis_seer_hut.glb",
    "footprint": [
     1,
+    1
+   ]
+  },
+  "obj:84:0": {
+   "glb": "res://assets/models/bank_crypt.glb",
+   "footprint": [
+    3,
+    1
+   ]
+  },
+  "obj:85:0": {
+   "glb": "res://assets/models/wat_shipwreck.glb",
+   "footprint": [
+    2,
     1
    ]
   },
